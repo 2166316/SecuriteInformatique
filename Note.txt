@@ -1,0 +1,37 @@
+cour 1 : 
+Cyberattaques d’infrastructures : D’attaques (qui se présentent souvent sous la forme d’un logiciel malveillant se propageant dans un réseau ou d’un rançongiciel cryptant les ordinateurs pour exiger une rançon).
+Cyberattaques d’applications : Cibler les vulnérabilités de logique d’une application (la façon dont elle traite une action donnée).
+Cyberattaques par ingénierie sociale : Ces attaques, également appelées attaques par hameçonnage, sont souvent diffusées par courrier électronique sous la forme de messages coercitifs et convaincants incitant l’utilisateur à effectuer une action donnée.
+
+Prévenir les cyberattaques : la réalisation d’un test d’intrusion.
+
+La responsabilité des entreprises : Les renseignements personnels doivent être protégés par des mesures appropriées.
+
+Voici 3 normes et méthodologies de tests d’intrusion les plus utilisées dans l’industrie : 
+ 
+OWASP (Open Web Application Security Project )
+OSSTMM (Open Source Security Testing Methodology Manual)
+PTES	(Penetration Testing Methodologies and Standards)
+
+L’entreprise s’engage donc à faire tout ce qui est en son pouvoir pour faire en sorte que les données soient sécurisées.
+
+PSSI (politique de sécurité de l’information) : Le principal document de référence en matière de Sécurité du Système d’Information (SSI) est la Politique de Sécurité du Système d’Information.
+
+Le contenu de la PSSI: 
+Le domaine d’application
+Les responsabilités
+Les documents associés
+Les enjeux internes et externes
+Les référentiels
+La gouvernance
+Les règles
+
+
+
+
+
+
+
+
+
+
